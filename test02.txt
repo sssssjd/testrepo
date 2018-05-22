@@ -1,3 +1,7 @@
 test02
 testtestsetstst
-master
+<<<<<<< HEAD
+new1
+=======
+new1
+>>>>>>> new1
