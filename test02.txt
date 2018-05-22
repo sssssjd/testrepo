@@ -1,7 +1,2 @@
 test02
 testtestsetstst
-<<<<<<< HEAD
-new1
-=======
-new1
->>>>>>> new1
